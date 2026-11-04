@@ -1,7 +1,7 @@
 {
   "text.appmek.chemical": "Produits chimiques",
   "text.appmek.creative_tab": "Applied Mekanistics",
-  "text.appmek.qio_frequency": "Fréquence QIO (%s)",
+  "text.appmek.qio_frequency": "Fréquence OQO (%s)",
 
   "item.appmek.chemical_cell_housing": "Boîtier de cellule chimique ME",
 
@@ -17,5 +17,5 @@
   "item.appmek.portable_chemical_cell_64k": "Cellule chimique portable 64k",
   "item.appmek.portable_chemical_cell_256k": "Cellule chimique portable 256k",
 
-  "item.appmek.chemical_p2p_tunnel": "Tunnel P2P chimique"
+  "item.appmek.chemical_p2p_tunnel": "Tunnel chimique P2P"
 }
